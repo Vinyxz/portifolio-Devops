@@ -1,0 +1,6 @@
+/* Este arquivo foi esvaziado para permitir que a seção de habilidades tenha o mesmo estilo das outras seções */
+/* Mantendo apenas o estilo específico para os itens de habilidade e ferramenta */
+.skill-item,
+.tool-item {
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}

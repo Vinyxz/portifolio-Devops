@@ -1,0 +1,11 @@
+/* Particles.js Background */
+#particles-js {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    pointer-events: none;
+    opacity: 0.4; /* Tornando as partículas mais sutis */
+}
